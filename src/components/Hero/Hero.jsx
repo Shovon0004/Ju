@@ -7,24 +7,24 @@ import Slider from "react-slick";
 const ImageList = [
   {
     id: 1,
-    img: Image1,
-    title: "Upto 50% off on all Men's Wear",
+    //img:Image1,
+    title: "Smart shopping ,less wastage more Savings!",
     description:
-      "lorem His Life will forever be Changed dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Get high-quality near-expiry products at unbeatable prices while reducing waste.",
   },
   {
     id: 2,
-    img: Image2,
-    title: "30% off on all Women's Wear",
+    //img:Image2,
+    title: "Great Deals on Near-Expiry Products – Same Quality, Better Prices",
     description:
-      "Who's there lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Enjoy your favorite products at up to 70% off without compromising on quality.",
   },
   {
-    id: 3,
-    img: Image3,
-    title: "70% off on all Products Sale",
+    id:3,
+    title: "Sustainable Shopping Starts Here!",
+    //img:Image3,
     description:
-      "consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Shop consciously and contribute to a greener, waste-free world.",
   },
 ];
 
